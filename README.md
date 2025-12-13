@@ -7,7 +7,7 @@ RESTful API backend for the Academic City University Library Management System. 
 
 ## Deployment
 
-🔗 **Live URL**: `https://web-tech-project-backend-lms.onrender.com`
+🔗 **Backend**: `https://web-tech-project-backend-lms.onrender.com`
 🔗 **Live URL**: `https://jesudunyinayobolu-web-tech.github.io/web_tech_project_frontend_lms/`
   
 
